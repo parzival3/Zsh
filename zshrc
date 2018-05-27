@@ -13,7 +13,6 @@ export PATH="$PATH:/home/enrico/.bin"
 export PATH="$PATH:/opt/arm-none-eab-gcc/bin"
 export EDITOR='vim'
 export VISUAL='vim' 
-export TESI=/home/enrico/Git/Tesi
 export GIT=/home/enrico/Git
 export DWNL=/home/enrico/Downloads
 # Set name of the theme to load. Optionally, if you set this to "random"
