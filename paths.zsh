@@ -1,0 +1,6 @@
+export PATH="$PATH:/home/enrico/.bin"
+export PATH="$PATH:/opt/arm-none-eab-gcc/bin"
+export PATH="$PATH:/opt/flutter/flutter/bin/"
+export PATH="$PATH:/opt/Android/platform-tools/"
+export PATH="$PATH:/opt/SimpleNote/"
+export PATH="$PATH:/opt/PhyCharm/pycharm-2018.1.3/bin/"
