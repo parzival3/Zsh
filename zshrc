@@ -12,7 +12,7 @@ export ZSH=/home/enrico/.oh-my-zsh
 export ANDROID_HOME="/opt/Android/"
 
 export EDITOR='vim'
-export VISUAL='vim' 
+export VISUAL='vim'
 export TESI=/home/enrico/Git/Tesi
 export GIT=/home/enrico/Git
 export DWNL=/home/enrico/Downloads
