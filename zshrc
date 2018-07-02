@@ -9,8 +9,8 @@ promptinit; prompt gentoo
 ZSH_CUSTOM=/home/enrico/Git/Zsh/
 
 export ZSH=/home/enrico/.oh-my-zsh
-export PATH="$PATH:/home/enrico/.bin"
-export PATH="$PATH:/opt/arm-none-eab-gcc/bin"
+export ANDROID_HOME="/opt/Android/"
+
 export EDITOR='vim'
 export VISUAL='vim' 
 export TESI=/home/enrico/Git/Tesi
