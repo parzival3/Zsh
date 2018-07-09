@@ -11,8 +11,8 @@ ZSH_CUSTOM=/home/enrico/Git/Zsh/
 export ZSH=/home/enrico/Git/oh-my-zsh/
 export ANDROID_HOME="/opt/Android/"
 
-export EDITOR='vim'
-export VISUAL='vim'
+export EDITOR=/usr/bin/vim
+export VISUAL=/usr/bin/vim
 export TESI=/home/enrico/Git/Tesi
 export GIT=/home/enrico/Git
 export DWNL=/home/enrico/Downloads
