@@ -11,9 +11,8 @@ ZSH_CUSTOM=/home/enrico/Git/Zsh/
 export ZSH=/home/enrico/Git/oh-my-zsh/
 export ANDROID_HOME="/opt/Android/"
 
-export EDITOR=/usr/bin/vim
-export VISUAL=/usr/bin/vim
-export TESI=/home/enrico/Git/Tesi
+export EDITOR="/usr/bin/emacsclient -t"
+export VISUAL="/usr/bin/emacsclient -t"
 export GIT=/home/enrico/Git
 export DWNL=/home/enrico/Downloads
 # Set name of the theme to load. Optionally, if you set this to "random"
