@@ -4,7 +4,7 @@
 # Path to your oh-my-zsh installation.
 autoload -U compinit promptinit
 compinit
-promptinit; prompt gentoo
+promptinit;
 
 ZSH_CUSTOM=/home/enrico/Git/Zsh/
 
@@ -19,7 +19,6 @@ export DWNL=/home/enrico/Downloads
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="norm"
-
 
 
 # Uncomment the following line to use case-sensitive completion.
@@ -97,3 +96,5 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
